@@ -1,0 +1,7 @@
+Explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años:
+
+Variables: Una variable es una forma de almacenar datos o valores, como si fuera un contenedor en el cual guardamos información para utilizarla más adelante. Las variables pueden modificarse y se crean declarando: var "nombreDeLaVariable" = "valor";
+Strings: Son un tipo de dato básico que se compone de bloques de texto. Este texto siempre se declara entre comillas: var mascota = "perro";
+Funciones (argumentos, return): Las funciones son un objeto integrado en JavaScript, del tipo invocable y se usan para realizar operaciones con un conjunto de datos y variables. Se declaran comenzando con la palabra clave "function" + "el nombre de la función" + los argumentos entre paréntesis: function nombreFuncion(a,b) {} Los argumentos, en caso de ser más de uno, se separan con comas. "return" es una declaración y sirve para que la función nos devuelva un resultado, es la única forma en la cual los datos escapan de la función y se puede acceder a ellos.
+Declaraciones if: Un if es un operador de control de flujo, opera dentro de una función para verificar si algo se cumple (si es verdadero/true) y de ser así, ejecuta el código. Caso contrario sigue avanzando con las siguientes líneas de código.
+Valores booleanos (true, false): Un booleano es un tipo de dato básico que puede definirse únicamente entre dos valores u opciones, verdadero o falso, true o false en JavaScript.
