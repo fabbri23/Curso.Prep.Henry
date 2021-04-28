@@ -1,0 +1,6 @@
+Explicaciones de conceptos:
+
+for: es una expresión que ejecuta un bucle que evalúa expresiones y devuelve un resultado mientras estas se cumplan, de lo contrario el bucle se detiene.
+&&: es un operador lógico que evalúa si dos o más expresiones son verdaderas, si todas lo son, devuelve un verdadero. ej: (2>1 && 2>0) = verdadero.
+||: es un operador lógico que evalúa si dos o más expresiones son verdaderas, si al menos una lo es, devuelve un verdadero. ej: (2>1 || 1==2 || 3==0) = verdadero.
+!: este operador no es de comparación, solo devuelve el valor booleano (verdadero o falso) opuesto al que presenta la expresión. ej: !(2===2) = falso.
