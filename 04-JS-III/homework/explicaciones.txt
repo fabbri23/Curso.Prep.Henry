@@ -1,0 +1,1 @@
+Arrays: Un array es una variable que se utiliza como contenedor de datos. Estos datos pueden ser de diferentes tipos, pueden agregarse o quitarse según se lo requiera.
