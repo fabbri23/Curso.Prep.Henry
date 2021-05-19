@@ -1,0 +1,5 @@
+* Objetos: Los objetos son contenedores de datos, en general se utilizan para guardar muchos datos sobre una sola cosa. Se expresan así: var objeto = {}; Los elementos dentro de un objeto se separan con comas.
+* Propiedades: Son los elementos que componen a un objeto y se les asigna un valor, se definen con un nombre único e irrepetible y pueden contener cualquier tipo de dato. Se expresa como propiedad: valor, ejemplo: nombre: 'Laura',
+* Métodos: Son las funciones guardadas dentro de un objeto.
+* Bucle `for…in`: Es un bucle que se utiliza para recorrer un objeto, tiene una sintaxis distinta a la de un for estándar., esta es: 
+* Notación de puntos vs notación de corchetes: Ambas se utilizan para acceder a los valores llamando al nombre de las propiedades del objeto. En general los corchetes se usan para llamar variables. Se escribe de la siguiente manera: objeto.propiedad; // objeto[propiedad];
